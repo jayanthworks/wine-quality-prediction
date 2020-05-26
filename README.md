@@ -7,3 +7,7 @@ We had two main goals:
 
 Predict whether new wines have high or low quality.
 Understand which chemical properties effect quality the most and identify whether higher or lower levels of those properties are more desirable.
+
+Performed exploratory analysis and cleaned the data (removed outliers and null values)
+
+Applied Linear regression,Support vector machine,Logistic regression,decision trees & random forest to classify "high" quality and "Low" quality wine.
